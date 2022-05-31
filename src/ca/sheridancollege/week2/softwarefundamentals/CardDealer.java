@@ -6,8 +6,8 @@
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
- * The class where we create Cards
- * @author dancye, 2019
+ * SYST17796 Fundamentals of Software Design and Development
+ * @author Joshua Abeto
  */
 public class CardDealer 
 {

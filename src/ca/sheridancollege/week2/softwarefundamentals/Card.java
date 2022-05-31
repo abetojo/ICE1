@@ -6,9 +6,8 @@
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
- * A class to model Card Objects.
- * Created in Week 2 for the cloning repository demo
- * @author dancye, 2019
+ * SYST17796 Fundamentals of Software Design and Development
+ * @author Joshua Abeto
  */
 public class Card 
 {
