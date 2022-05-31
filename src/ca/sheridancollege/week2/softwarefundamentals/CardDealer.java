@@ -16,6 +16,7 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        //Added a print statement
         System.out.println(nineClubs);
     }
 }
