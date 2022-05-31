@@ -8,6 +8,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * SYST17796 Fundamentals of Software Design and Development
  * @author Joshua Abeto
+ * Student ID: 991602946
  */
 public class Card 
 {
