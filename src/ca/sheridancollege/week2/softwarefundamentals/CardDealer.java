@@ -14,9 +14,14 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
-        Card nineClubs = new Card("Clbs", 9);
-        nineClubs.setSuit("diamonds");
+        Card nineClubs = new Card("Clubs", 9);
+        nineClubs.setSuit("Diamonds");
         //Added a print statement
         System.out.println(nineClubs);
+        
+        //Added new card object
+        Card queenSpades = new Card("Spades", 12);
+        queenSpades.setSuit("Hearts");
+        System.out.println(queenSpades);
     }
 }
